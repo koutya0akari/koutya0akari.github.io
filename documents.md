@@ -20,10 +20,6 @@ title-heading: false
 ---
 
 #### シリーズ
- - [群](/pdf_file/GRF.pdf) <br />
-  ガロア理論までの構想を立てている．現在，群論のみ.
- - [射影幾何と代数](/pdf_file/PGA.pdf) <br />
-  パップスの定理と少し．Hartshornを読み次第，さらに拡大する．<br />
 
 ---
 
