@@ -12,7 +12,7 @@ title-heading: false
 </script>
 
 
-# [収穫と蒔いた種と間引きされる僕](https://chigu314.github.io/)
+# [収穫と蒔いた種と間引きされる僕](https://koutya0akari.github.io/)
 ---
 
 ### 資料館
