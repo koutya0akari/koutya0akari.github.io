@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+---
+title-heading: false
+---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-212193483-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-You can use the [editor on GitHub](https://github.com/koutya0akari/koutya0akari.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+  gtag('config', 'UA-212193483-1');
+</script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 収穫と蒔いた種と間引きされる僕
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 興味
 
-```markdown
-Syntax highlighted code block
+- Scheme論
+- 競技プログラミング<br />
 
-# Header 1
-## Header 2
-### Header 3
+---
+### About me
+高校生のためお手柔らかにお願いします．
+ - [Twitter](https://twitter.com/akari0koutya)
+ - [GitHub](https://github.com/koutya0akari)
 
-- Bulleted
-- List
+---
+### [資料館](documents)
+数学の勉強を兼ねた，偶に書いているPDFたちです．<br />
+公開しているものであっても，内容が変更されることがあります．
 
-1. Numbered
-2. List
+---
+#### 連絡 
+ - Twitterまたは，G-mail koutya0akari@gmail.com にお願いします．
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+#### 更新履歴
+ - 2021/11/28 ホームページを公開しました．<br />
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/koutya0akari/koutya0akari.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
