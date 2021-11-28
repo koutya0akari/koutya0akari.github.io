@@ -28,6 +28,7 @@ title-heading: false
 
 - [ときわ台学](http://www.f-denshi.com/000TokiwaJPN/01daisu/000daisu.html)<br />
   初歩的な代数である群・環・体に関する内容が丁寧に解説されている．<br />
+  
 ---
 
 #### 代数幾何
@@ -40,6 +41,7 @@ title-heading: false
   EGA，SGA，などが公開されている．<br />
 - [柳田](https://www.math.nagoya-u.ac.jp/~yanagida/2018WA.html)<br />
   初歩的なschemeについての講義資料と問題が載っている．<br />
+
 ---
 
 #### ブログ
@@ -48,6 +50,7 @@ title-heading: false
   尊敬する人のブログ．<br />
 - [J_Koizumi](https://asuka-math.amebaownd.com/)<br />
   モチーフ論に関するもの．<br />
+
 ---
 
 #### 数オリ
@@ -59,6 +62,7 @@ title-heading: false
 - [IMO](https://www.imo-official.org/)<br />
 - [高校数学の美しい物語](https://mathtrain.jp/)<br />
   数オリではなく受験数学に関数話題の方が豊富か．<br />
+
 ---
 
 #### その他
@@ -70,6 +74,7 @@ title-heading: false
   TeXに関する技術について．<br />
 - [arXiv](https://arxiv.org/)<br />
   言わずと知れた論文サイト．<br />
+
 ---
 
 ### 言語学
