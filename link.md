@@ -86,3 +86,7 @@ title-heading: false
 - [maspy](https://maspypy.com/)
 
 ---
+
+[homeにもどる](https://koutya0akari.github.io/)
+
+---
