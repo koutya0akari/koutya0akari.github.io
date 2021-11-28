@@ -27,7 +27,8 @@ title-heading: false
  - [GitHub](https://github.com/koutya0akari)
 
 ---
-### [資料館]()
+### [資料館](documents)
+
 数学の勉強を兼ねた，偶に書いているPDFたちです．<br />
 公開しているものであっても，内容が変更されることがあります．
 
