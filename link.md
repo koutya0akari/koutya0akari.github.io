@@ -112,9 +112,9 @@ title-heading: false
 ### 地学
 
 - [ご注文は地ロリですか？](https://sites.google.com/view/gochirori/index)<br />
-  地学や地学オリンピックについて学ぶことができる有志によるサイト．[Twittr](https://twitter.com/gochirori)<br />
+  地学や地学オリンピックについて学ぶことができる有志によるサイト．[Twitter](https://twitter.com/gochirori)<br />
 
---
+---
 
 [homeにもどる](https://koutya0akari.github.io/)
 
