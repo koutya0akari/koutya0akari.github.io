@@ -47,7 +47,7 @@ title-heading: false
 #### ブログ
 
 - [永月杏](https://www.all-for-nothing.com/about)<br />
-  尊敬する人のブログ．<br />
+  尊敬する人のブログ．Grothendieck全訳計画を行なっている．[Twittr](https://twitter.com/annnagatsuki)<br />
 - [J_Koizumi](https://asuka-math.amebaownd.com/)<br />
   モチーフ論に関するもの．<br />
 
@@ -58,7 +58,8 @@ title-heading: false
 - [OMC](http://onlinemathcontest.com/)<br />
 - [柳田](http://izumi-math.jp/I_Yanagita/I_Yanagita.html)<br />
 - [AoPS](https://artofproblemsolving.com/community/c13_contests)<br />
-- [ごち数](https://gochisuu.netlify.app/)<br />
+- [ご注文は数オリですか？](https://gochisuu.netlify.app/)<br />
+  IMOメダリストたちによる有志の数オリ対策サイト．[Twitter](https://twitter.com/gochisuu)
 - [IMO](https://www.imo-official.org/)<br />
 - [高校数学の美しい物語](https://mathtrain.jp/)<br />
   数オリではなく受験数学に関数話題の方が豊富か．<br />
@@ -82,6 +83,10 @@ title-heading: false
 ---
 - [内海淳](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/)<br />
    言語学の基礎<br />
+- [JOL](https://iolingjapan.org/)<br />
+  日本言語学オリンピック公式サイト．<br />
+
+---
 
 ### 競プロ
 
@@ -103,6 +108,13 @@ title-heading: false
 - [maspy](https://maspypy.com/)<br />
 
 ---
+
+### 地学
+
+- [ご注文は地ロリですか？](https://sites.google.com/view/gochirori/index)<br />
+  地学や地学オリンピックについて学ぶことができる有志によるサイト．[Twittr](https://twitter.com/gochirori)<br />
+
+--
 
 [homeにもどる](https://koutya0akari.github.io/)
 
