@@ -36,7 +36,7 @@ title-heading: false
 - [Jacob Lurie](https://www.math.ias.edu/~lurie/)<br />
   Grothendieck氏の後継者と言われている，Jacob Lurie氏のサイトで，Higher Topos TheoryやDerived algebraic geometryに関するpdf，過去の講義資料が読める．<br />
 - [David Mumford](https://www.dam.brown.edu/people/mumford/alg_geom/introAG.html)<br />
-  ReD Book で有名なDavid Mumford氏のサイトで代数幾何の論文や資料が公開されている．<br />
+  Red Book で有名なDavid Mumford氏のサイトで代数幾何の論文や資料が公開されている．<br />
 - [Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pubtexts.php)<br />
   EGA，SGA，などが公開されている．<br />
 - [柳田](https://www.math.nagoya-u.ac.jp/~yanagida/2018WA.html)<br />
