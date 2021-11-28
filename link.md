@@ -26,76 +26,76 @@ title-heading: false
 
 #### 群・環・体
 
-- [ときわ台学](http://www.f-denshi.com/000TokiwaJPN/01daisu/000daisu.html)
-  初歩的な代数である群・環・体に関する内容が丁寧に解説されている．
+- [ときわ台学](http://www.f-denshi.com/000TokiwaJPN/01daisu/000daisu.html)<br />
+  初歩的な代数である群・環・体に関する内容が丁寧に解説されている．<br />
 ---
 
 #### 代数幾何
 
-- [Jacob Lurie](https://www.math.ias.edu/~lurie/)
-  Grothendieck氏の後継者と言われている，Jacob Lurie氏のサイトで，Higher Topos TheoryやDerived algebraic geometryに関するpdf，過去の講義資料が読める．
-- [David Mumford](https://www.dam.brown.edu/people/mumford/alg_geom/introAG.html)
-  ReD Book で有名なDavid Mumford氏のサイトで代数幾何の論文や資料が公開されている．
-- [Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pubtexts.php)
-  EGA，SGA，などが公開されている．
-- [柳田](https://www.math.nagoya-u.ac.jp/~yanagida/2018WA.html)
-  初歩的なschemeについての講義資料と問題が載っている．
+- [Jacob Lurie](https://www.math.ias.edu/~lurie/)<br />
+  Grothendieck氏の後継者と言われている，Jacob Lurie氏のサイトで，Higher Topos TheoryやDerived algebraic geometryに関するpdf，過去の講義資料が読める．<br />
+- [David Mumford](https://www.dam.brown.edu/people/mumford/alg_geom/introAG.html)<br />
+  ReD Book で有名なDavid Mumford氏のサイトで代数幾何の論文や資料が公開されている．<br />
+- [Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pubtexts.php)<br />
+  EGA，SGA，などが公開されている．<br />
+- [柳田](https://www.math.nagoya-u.ac.jp/~yanagida/2018WA.html)<br />
+  初歩的なschemeについての講義資料と問題が載っている．<br />
 ---
 
 #### ブログ
 
-- [永月杏](https://www.all-for-nothing.com/about)
-  尊敬する人のブログ．
-- [J_Koizumi](https://asuka-math.amebaownd.com/)
-  モチーフ論に関するもの．
+- [永月杏](https://www.all-for-nothing.com/about)<br />
+  尊敬する人のブログ．<br />
+- [J_Koizumi](https://asuka-math.amebaownd.com/)<br />
+  モチーフ論に関するもの．<br />
 ---
 
 #### 数オリ
 
-- [OMC](http://onlinemathcontest.com/)
-- [柳田](http://izumi-math.jp/I_Yanagita/I_Yanagita.html)
-- [AoPS](https://artofproblemsolving.com/community/c13_contests)
-- [ごち数](https://gochisuu.netlify.app/)
-- [IMO](https://www.imo-official.org/)
-- [高校数学の美しい物語](https://mathtrain.jp/)
-  数オリではなく受験数学に関数話題の方が豊富か．
+- [OMC](http://onlinemathcontest.com/)<br />
+- [柳田](http://izumi-math.jp/I_Yanagita/I_Yanagita.html)<br />
+- [AoPS](https://artofproblemsolving.com/community/c13_contests)<br />
+- [ごち数](https://gochisuu.netlify.app/)<br />
+- [IMO](https://www.imo-official.org/)<br />
+- [高校数学の美しい物語](https://mathtrain.jp/)<br />
+  数オリではなく受験数学に関数話題の方が豊富か．<br />
 ---
 
 #### その他
 
-- [nLab](https://ncatlab.org/nlab/show/HomePage)
-  多様な数学の話題がまとめられている．
-- [J-stage](https://www.jstage.jst.go.jp/browse/sugaku/list/-char/ja)
-- [CTAN](https://www.ctan.org/)
-  TeXに関する技術について．
-- [arXiv](https://arxiv.org/)
-  言わずと知れた論文サイト．
+- [nLab](https://ncatlab.org/nlab/show/HomePage)<br />
+  多様な数学の話題がまとめられている．<br />
+- [J-stage](https://www.jstage.jst.go.jp/browse/sugaku/list/-char/ja)<br />
+- [CTAN](https://www.ctan.org/)<br />
+  TeXに関する技術について．<br />
+- [arXiv](https://arxiv.org/)<br />
+  言わずと知れた論文サイト．<br />
 ---
 
 ### 言語学
 
 ---
-- [内海淳](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/)
-   言語学の基礎
+- [内海淳](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/)<br />
+   言語学の基礎<br />
 
 ### 競プロ
 
 ---
 
 #### サイト
-- [AtCoder](https://atcoder.jp/?lang=ja)
-- [yukicoder](https://yukicoder.me/)
-- [JOI](https://www.ioi-jp.org/)
-- [Puroject Euler](https://projecteuler.net/archives)
-- [AOJ](https://onlinejudge.u-aizu.ac.jp/home)
+- [AtCoder](https://atcoder.jp/?lang=ja)<br />
+- [yukicoder](https://yukicoder.me/)<br />
+- [JOI](https://www.ioi-jp.org/)<br />
+- [Puroject Euler](https://projecteuler.net/archives)<br />
+- [AOJ](https://onlinejudge.u-aizu.ac.jp/home)<br />
 
 ---
 
 #### ブログ
 
-- [drken](https://drken1215.hatenablog.com/)
-- [opt](https://opt-cp.com/)
-- [maspy](https://maspypy.com/)
+- [drken](https://drken1215.hatenablog.com/)<br />
+- [opt](https://opt-cp.com/)<br />
+- [maspy](https://maspypy.com/)<br />
 
 ---
 
