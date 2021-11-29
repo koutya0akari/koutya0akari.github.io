@@ -51,7 +51,7 @@ title-heading: false
 #### ブログ
 
 - [永月杏](https://www.all-for-nothing.com/about)<br />
-  尊敬する人のブログ．Grothendieck全訳計画を行なっている．[Twittr](https://twitter.com/annnagatsuki)<br />
+  尊敬する人のブログ．Grothendieck全訳計画を行なっている．[Twitter](https://twitter.com/annnagatsuki)<br />
 - [J_Koizumi](https://asuka-math.amebaownd.com/)<br />
   モチーフ論に関するもの．<br />
 
