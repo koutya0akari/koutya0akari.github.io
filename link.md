@@ -36,10 +36,14 @@ title-heading: false
 - [Jacob Lurie](https://www.math.ias.edu/~lurie/)<br />
   Grothendieck氏の後継者と言われている，Jacob Lurie氏のサイトで，Higher Topos TheoryやDerived algebraic geometryに関するpdf，過去の講義資料が読める．<br />
 - [David Mumford](https://www.dam.brown.edu/people/mumford/alg_geom/introAG.html)<br />
-  Red Book で有名なDavid Mumford氏のサイトで代数幾何の論文や資料が公開されている．<br />
-- [Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pubtexts.php)<br />
-  EGA，SGA，などが公開されている．<br />
-- [柳田](https://www.math.nagoya-u.ac.jp/~yanagida/2018WA.html)<br />
+  "Red Book" で有名なDavid Mumford氏のサイトで代数幾何の論文や資料が公開されている．<br />
+- [Grothendieck1](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pubtexts.php)<br />
+  "FGA"，"EGA"，"SGA"，の原文などが公開されている．<br />
+- [Grothendieck2](https://projecteuclid.org/search?author=Alexander_Grothendieck)<br />
+  "Tohoku" の名で知られる "Some aspects of homological algebra" の原文が読める．英訳は[ここ](https://www.math.mcgill.ca/barr/#subjindx)の一番下にある．<br />
+- [Grothendieck3](https://github.com/ryankeleti/ega)<br />
+  "EGA"の英訳の企画．現在進行途中．<br />
+- [柳田伸太郎](https://www.math.nagoya-u.ac.jp/~yanagida/2018WA.html)<br />
   初歩的なschemeについての講義資料と問題が載っている．<br />
 
 ---
@@ -81,6 +85,7 @@ title-heading: false
 ### 言語学
 
 ---
+
 - [内海淳](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/)<br />
    言語学の基礎<br />
 - [JOL](https://iolingjapan.org/)<br />
@@ -93,7 +98,9 @@ title-heading: false
 ---
 
 #### サイト
+
 - [AtCoder](https://atcoder.jp/?lang=ja)<br />
+- [AtoCoder Problems](https://kenkoooo.com/atcoder/#/table/)<br />
 - [yukicoder](https://yukicoder.me/)<br />
 - [JOI](https://www.ioi-jp.org/)<br />
 - [Puroject Euler](https://projecteuler.net/archives)<br />
