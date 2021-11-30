@@ -43,7 +43,7 @@ title-heading: false
   "Tohoku" の名で知られる "Some aspects of homological algebra" の原文が読める．英訳は[ここ](https://www.math.mcgill.ca/barr/#subjindx)の一番下にある．<br />
 - [Alexander Grothendieck3](https://github.com/ryankeleti/ega)<br />
   "EGA"の英訳の企画．現在進行途中．<br />
-- [Lie Fu](https://www.math.ru.nl/~liefu/)
+- [Lie Fu](https://www.math.ru.nl/~liefu/)<br />
   "Etale Cohomology Theory"や"Algebraic Geometry"などの出版物が有名．いくつかの論文が公開されている．<br />
 - [Ravi Vakil](https://math.stanford.edu/~vakil/)<br />
   "The Rising Sea: Foundations Of Algebraic Geometry Notes"が有名．<br />
@@ -93,7 +93,7 @@ title-heading: false
 ---
 
 - [内海淳](http://culture.cc.hirosaki-u.ac.jp/english/utsumi/)<br />
-   言語学の基礎<br />
+  言語学の基礎<br />
 - [JOL](https://iolingjapan.org/)<br />
   日本言語学オリンピック公式サイト．<br />
 
@@ -127,7 +127,8 @@ title-heading: false
 - [ご注文は地ロリですか？](https://sites.google.com/view/gochirori/index)<br />
   地学や地学オリンピックについて学ぶことができる有志によるサイト．[[Twitter]](https://twitter.com/gochirori)<br />
 - [地学オリンピック日本委員会](https://jeso.jp/index.html)
-   地理オリンピックに関する，多くの過去問が公開されている．
+  地理オリンピックに関する，多くの過去問が公開されている．<br />
+
 ---
 
 [homeにもどる](https://koutya0akari.github.io/)
