@@ -37,13 +37,19 @@ title-heading: false
   Grothendieck氏の後継者と言われている，Jacob Lurie氏のサイトで，Higher Topos TheoryやDerived algebraic geometryに関するpdf，過去の講義資料が読める．<br />
 - [David Mumford](https://www.dam.brown.edu/people/mumford/alg_geom/introAG.html)<br />
   "Red Book" で有名なDavid Mumford氏のサイトで代数幾何の論文や資料が公開されている．<br />
-- [Grothendieck1](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pubtexts.php)<br />
+- [Alexander Grothendieck1](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pubtexts.php)<br />
   "FGA"，"EGA"，"SGA"，の原文などが公開されている．<br />
-- [Grothendieck2](https://projecteuclid.org/search?author=Alexander_Grothendieck)<br />
+- [Alexander Grothendieck2](https://projecteuclid.org/search?author=Alexander_Grothendieck)<br />
   "Tohoku" の名で知られる "Some aspects of homological algebra" の原文が読める．英訳は[ここ](https://www.math.mcgill.ca/barr/#subjindx)の一番下にある．<br />
-- [Grothendieck3](https://github.com/ryankeleti/ega)<br />
+- [Alexander Grothendieck3](https://github.com/ryankeleti/ega)<br />
   "EGA"の英訳の企画．現在進行途中．<br />
-- [柳田伸太郎](https://www.math.nagoya-u.ac.jp/~yanagida/2018WA.html)<br />
+- [Lie Fu](https://www.math.ru.nl/~liefu/)
+  "Etale Cohomology Theory"や"Algebraic Geometry"などの出版物が有名．いくつかの論文が公開されている．<br />
+- [Ravi Vakil](https://math.stanford.edu/~vakil/)<br />
+  "The Rising Sea: Foundations Of Algebraic Geometry Notes"が有名．<br />
+- [Alex Youcis](https://ayoucis.wordpress.com/)<br />
+  "EXERCISES IN ETALE COHOMOLOGY"で多くの演習問題が挙げられている．<br />
+- [柳田 伸太郎](https://www.math.nagoya-u.ac.jp/~yanagida/2018WA.html)<br />
   初歩的なschemeについての講義資料と問題が載っている．<br />
 
 ---
@@ -51,7 +57,7 @@ title-heading: false
 #### ブログ
 
 - [永月杏](https://www.all-for-nothing.com/about)<br />
-  尊敬する人のブログ．Grothendieck全訳計画を行なっている．[Twitter](https://twitter.com/annnagatsuki)<br />
+  尊敬する人のブログ．Grothendieck全訳計画を行なっている．[[Twitter]](https://twitter.com/annnagatsuki)<br />
 - [J_Koizumi](https://asuka-math.amebaownd.com/)<br />
   モチーフ論に関するもの．<br />
 
@@ -63,7 +69,7 @@ title-heading: false
 - [柳田](http://izumi-math.jp/I_Yanagita/I_Yanagita.html)<br />
 - [AoPS](https://artofproblemsolving.com/community/c13_contests)<br />
 - [ご注文は数オリですか？](https://gochisuu.netlify.app/)<br />
-  IMOメダリストたちによる有志の数オリ対策サイト．[Twitter](https://twitter.com/gochisuu)
+  IMOメダリストたちによる有志の数オリ対策サイト．[[Twitter]](https://twitter.com/gochisuu)
 - [IMO](https://www.imo-official.org/)<br />
 - [高校数学の美しい物語](https://mathtrain.jp/)<br />
   数オリではなく受験数学に関数話題の方が豊富か．<br />
@@ -119,8 +125,9 @@ title-heading: false
 ### 地学
 
 - [ご注文は地ロリですか？](https://sites.google.com/view/gochirori/index)<br />
-  地学や地学オリンピックについて学ぶことができる有志によるサイト．[Twitter](https://twitter.com/gochirori)<br />
-
+  地学や地学オリンピックについて学ぶことができる有志によるサイト．[[Twitter]](https://twitter.com/gochirori)<br />
+- [地学オリンピック日本委員会](https://jeso.jp/index.html)
+   地理オリンピックに関する，多くの過去問が公開されている．
 ---
 
 [homeにもどる](https://koutya0akari.github.io/)
