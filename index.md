@@ -22,7 +22,8 @@ title-heading: false
 
 ---
 ### About me
-高校生のためお手柔らかにお願いします．
+高校生のためお手柔らかにお願いします．<br />
+現在，私の関心の多くは代数幾何に向けられていますが，身分不相応な学習であり，誉められたものではないことは私自身感じているところです．<br />
  - [Twitter](https://twitter.com/akari0koutya)
  - [GitHub](https://github.com/koutya0akari)
 
@@ -39,7 +40,7 @@ title-heading: false
 
 ---
 #### 連絡 
- - Twitterまたは，G-mail koutya0akari@gmail.com にお願いします．
+ - TwitterのDM．または，G-mail koutya0akari@gmail.com にお願いします．
 
 ---
 
