@@ -54,6 +54,13 @@ title-heading: false
 
 ---
 
+#### 圏論
+
+- [壱大整域(alg-d)](http://alg-d.com/)<br />
+  圏論だけでなく，選択公理，代数的整数論の記事も充実したものとなっている．<br />
+
+---
+
 #### ブログ
 
 - [永月杏](https://www.all-for-nothing.com/about)<br />
@@ -66,11 +73,15 @@ title-heading: false
 #### 数オリ
 
 - [OMC](http://onlinemathcontest.com/)<br />
-- [柳田](http://izumi-math.jp/I_Yanagita/I_Yanagita.html)<br />
+  AtCoderの競技数学版というべきもの．
+- [柳田 五夫](http://izumi-math.jp/I_Yanagita/I_Yanagita.html)<br />
+  初等整数論，不等式の資料が充実している．
 - [AoPS](https://artofproblemsolving.com/community/c13_contests)<br />
+  各国の数オリの問題とその解説，大学入試まで網羅されているが，個人による解答が主なため間違った議論も散見されることがしばしばある．
 - [ご注文は数オリですか？](https://gochisuu.netlify.app/)<br />
-  IMOメダリストたちによる有志の数オリ対策サイト．[[Twitter]](https://twitter.com/gochisuu)
+  IMOメダリストたちによる有志の数オリ対策サイト．[[Twitter]](https://twitter.com/gochisuu)<br />
 - [IMO](https://www.imo-official.org/)<br />
+  IMO公式サイト．
 - [高校数学の美しい物語](https://mathtrain.jp/)<br />
   数オリではなく受験数学に関数話題の方が豊富か．<br />
 
