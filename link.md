@@ -39,15 +39,17 @@ title-heading: false
 
 - [Jacob Lurie](https://www.math.ias.edu/~lurie/)<br />
   Grothendieck氏の後継者と言われている，Jacob Lurie氏のサイトで，Higher Topos TheoryやDerived algebraic geometryに関するpdf，過去の講義資料が読むことができる．<br />
-- [James Milne](https://www.jmilne.org/index.html)
-   代数幾何，エタール・コホモロジー，代数的整数といった幅広い資料を公開してくださっている．
+- [James Milne](https://www.jmilne.org/index.html)<br />
+  代数幾何，エタール・コホモロジー，代数的整数といった幅広い資料を公開してくださっている．<br />
 - [David Mumford](https://www.dam.brown.edu/people/mumford/alg_geom/introAG.html)<br />
   "Red Book" で有名なDavid Mumford氏のサイトで代数幾何の論文や資料が公開されている．<br />
-- [Alexander Grothendieck1](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pubtexts.php)<br />
+- [Alexander Grothendieck1](https://agrothendieck.github.io)<br />
+  ほぼ全てのGrothendieckに関する著書や情報は手に入るのではないかと思う．
+- [Alexander Grothendieck2](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pubtexts.php)<br />
   "FGA"，"EGA"，"SGA"，の原文などが公開されている．<br />
-- [Alexander Grothendieck2](https://projecteuclid.org/search?author=Alexander_Grothendieck)<br />
+- [Alexander Grothendieck3](https://projecteuclid.org/search?author=Alexander_Grothendieck)<br />
   "Tohoku" の名で知られる "Some aspects of homological algebra" の原文が読める．英訳は[ここ](https://www.math.mcgill.ca/barr/#subjindx)の一番下にある．<br />
-- [Alexander Grothendieck3](https://github.com/ryankeleti/ega)<br />
+- [Alexander Grothendieck4](https://github.com/ryankeleti/ega)<br />
   "EGA"の英訳の企画．現在進行途中．<br />
 - [Lie Fu](https://www.math.ru.nl/~liefu/)<br />
   "Etale Cohomology Theory"や"Algebraic Geometry"などの出版物が有名．いくつかの論文が公開されている．<br />
