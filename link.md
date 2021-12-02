@@ -20,6 +20,10 @@ title-heading: false
 
 ---
 
+* 敬称は省略させていただいています．
+
+---
+
 ### 数学
 
 ---
@@ -34,7 +38,9 @@ title-heading: false
 #### 代数幾何
 
 - [Jacob Lurie](https://www.math.ias.edu/~lurie/)<br />
-  Grothendieck氏の後継者と言われている，Jacob Lurie氏のサイトで，Higher Topos TheoryやDerived algebraic geometryに関するpdf，過去の講義資料が読める．<br />
+  Grothendieck氏の後継者と言われている，Jacob Lurie氏のサイトで，Higher Topos TheoryやDerived algebraic geometryに関するpdf，過去の講義資料が読むことができる．<br />
+- [James Milne](https://www.jmilne.org/index.html)
+   代数幾何，エタール・コホモロジー，代数的整数といった幅広い資料を公開してくださっている．
 - [David Mumford](https://www.dam.brown.edu/people/mumford/alg_geom/introAG.html)<br />
   "Red Book" で有名なDavid Mumford氏のサイトで代数幾何の論文や資料が公開されている．<br />
 - [Alexander Grothendieck1](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pubtexts.php)<br />
