@@ -82,6 +82,8 @@ title-heading: false
   IMOメダリストたちによる有志の数オリ対策サイト．[[Twitter]](https://twitter.com/gochisuu)<br />
 - [IMO](https://www.imo-official.org/)<br />
   IMO公式サイト．
+- [Evam Chan](https://web.evanchen.cc/olympiad.html)
+  IMO金メダリストの人のサイトであり，"Euclidean Geometry in MathOlympiads"が数オリerのなかで特に有名です．
 - [高校数学の美しい物語](https://mathtrain.jp/)<br />
   数オリではなく受験数学に関数話題の方が豊富か．<br />
 
