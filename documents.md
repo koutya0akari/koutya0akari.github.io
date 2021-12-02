@@ -26,6 +26,10 @@ title-heading: false
 
 #### 単発
  - [Memorandum1](/pdf_file/Memorandum1.pdf)<br /> 
-  三角関数の逆関数のなにか
+  三角関数の逆関数のなにか．学校の部活の一発ネタです．
+
+---
+
+[Homeにもどる](https://koutya0akari.github.io/)
 
 ---

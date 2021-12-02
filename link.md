@@ -142,6 +142,6 @@ title-heading: false
 
 ---
 
-[homeにもどる](https://koutya0akari.github.io/)
+[Homeにもどる](https://koutya0akari.github.io/)
 
 ---

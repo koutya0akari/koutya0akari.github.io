@@ -66,5 +66,17 @@ title-heading: false
    高木 貞治(著)，(岩波書店)<br />
 - [集合と位相](https://www.amazon.co.jp/%E9%9B%86%E5%90%88%E3%81%A8%E4%BD%8D%E7%9B%B8-%E5%A2%97%E8%A3%9C%E6%96%B0%E8%A3%85%E7%89%88-%E6%95%B0%E5%AD%A6%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%86%85%E7%94%B0-%E4%BC%8F%E4%B8%80/dp/4785314125/ref=sr_1_4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E9%9B%86%E5%90%88%E3%81%A8%E4%BD%8D%E7%9B%B8&qid=1638181580&s=books&sr=1-4)
    内田 伏一(著)，(裳華房)<br />
+- [解析入門 1](https://www.amazon.co.jp/%E8%A7%A3%E6%9E%90%E5%85%A5%E9%96%80-%E2%85%A0-%E5%9F%BA%E7%A4%8E%E6%95%B0%E5%AD%A62-%E6%9D%89%E6%B5%A6-%E5%85%89%E5%A4%AB/dp/4130620053/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E8%A7%A3%E6%9E%90%E5%85%A5%E9%96%80&qid=1638420435&sr=8-1)<br />
+   杉浦光夫(著)，(東京大学出版会)<br />
+- [解析入門 2](https://www.amazon.co.jp/%E8%A7%A3%E6%9E%90%E5%85%A5%E9%96%80-%E2%85%A1-%E5%9F%BA%E7%A4%8E%E6%95%B0%E5%AD%A63-%E6%9D%89%E6%B5%A6-%E5%85%89%E5%A4%AB/dp/4130620061/ref=pd_bxgy_img_1/358-3721013-0526637?pd_rd_w=EpeR3&pf_rd_p=d8f6e0ab-48ef-4eca-99d5-60d97e927468&pf_rd_r=WEG0S83SMNC2DMCWAFM0&pd_rd_r=9b4f51e6-8557-4c61-b77f-6e71fea6b313&pd_rd_wg=NXJwy&pd_rd_i=4130620061&psc=1)<br />
+   杉浦光夫(著)，(東京大学出版会)<br />
+- [線型代数入門](https://www.amazon.co.jp/%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%85%A5%E9%96%80-%E5%9F%BA%E7%A4%8E%E6%95%B0%E5%AD%A61-%E9%BD%8B%E8%97%A4-%E6%AD%A3%E5%BD%A6/dp/4130620010/ref=pd_bxgy_img_2/358-3721013-0526637?pd_rd_w=MuHyy&pf_rd_p=d8f6e0ab-48ef-4eca-99d5-60d97e927468&pf_rd_r=C96S44S31HRQSPWVWP0T&pd_rd_r=de308375-e95c-420c-81cb-8a7b430f71d8&pd_rd_wg=wNSNa&pd_rd_i=4130620010&psc=1)<br />
+   齋藤正彦(著)，(東京大学出版会)<br />
+- [整数論1 初等整数論からp進数へ](https://www.amazon.co.jp/%E6%95%B4%E6%95%B0%E8%AB%961-%E5%88%9D%E7%AD%89%E6%95%B4%E6%95%B0%E8%AB%96%E3%81%8B%E3%82%89p%E9%80%B2%E6%95%B0%E3%81%B8-%E9%9B%AA%E6%B1%9F%E6%98%8E%E5%BD%A6/dp/4535787360/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=PQBE0GQD89K0&keywords=%E5%88%9D%E7%AD%89%E6%95%B4%E6%95%B0%E8%AB%96&qid=1638420748&s=books&sprefix=%E3%81%97%E3%82%87%E3%81%A8%E3%81%86%E3%81%9B%E3%81%84%E3%81%99%E3%81%86%2Cstripbooks%2C281&sr=1-5)<br />
+  雪江　明彦(著)，(日本評論社)<br />
+  
+---
+
+[Homeにもどる](https://koutya0akari.github.io/)
 
 ---
