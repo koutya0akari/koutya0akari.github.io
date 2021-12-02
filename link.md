@@ -49,6 +49,8 @@ title-heading: false
   "The Rising Sea: Foundations Of Algebraic Geometry Notes"が有名．<br />
 - [Alex Youcis](https://ayoucis.wordpress.com/)<br />
   "EXERCISES IN ETALE COHOMOLOGY"で多くの演習問題が挙げられている．<br />
+- [The Stacks project](https://stacks.math.columbia.edu/browse)<br />
+  豊富なSchemeに関するpdfを読むことができる．代数幾何のみならず，数学基礎からの懇切丁寧な記述を読むことができる．
 - [柳田 伸太郎](https://www.math.nagoya-u.ac.jp/~yanagida/2018WA.html)<br />
   初歩的なschemeについての講義資料と問題が載っている．<br />
 
