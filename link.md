@@ -68,7 +68,8 @@ title-heading: false
 
 - [壱大整域(alg-d)](http://alg-d.com/)<br />
   圏論だけでなく，選択公理，代数的整数論の記事も充実したものとなっている．<br />
-
+- [Emily Riehl](https://math.jhu.edu/~eriehl/)<br />
+  "Category Theory in Context"が特に有名で，ここで読むことができる．
 ---
 
 #### ブログ
