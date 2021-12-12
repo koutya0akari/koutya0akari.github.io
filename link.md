@@ -55,15 +55,18 @@ title-heading: false
   "Etale Cohomology Theory"や"Algebraic Geometry"などの出版物が有名．いくつかの論文が公開されている．<br />
 - [Ravi Vakil](https://math.stanford.edu/~vakil/)<br />
   "The Rising Sea: Foundations Of Algebraic Geometry Notes"が有名．<br />
+- [Daniel Murfet](http://therisingsea.org/)<br />
+  圏論及び，代数幾何の資料，特にHartshorneの閲覧が可能．<br />
 - [Alex Youcis](https://ayoucis.wordpress.com/)<br />
   "EXERCISES IN ETALE COHOMOLOGY"で多くの演習問題が挙げられている．<br />
 - [The Stacks project](https://stacks.math.columbia.edu/browse)<br />
-  豊富なSchemeに関するpdfを読むことができる．代数幾何のみならず，数学基礎からの懇切丁寧な記述を読むことができる．<br />
+  過剰なほど豊富なScheme及び，その発展に関するpdfを読むことができる．<br />
 - [柳田 伸太郎](https://www.math.nagoya-u.ac.jp/~yanagida/2018WA.html)<br />
   初歩的なschemeについての講義資料と問題が載っている．<br />
 - [松本 雄也](http://yuyamatsumoto.com/index_j.html)<br />
   授業資料にある"代数幾何入門コース"が可換環論からの導入をしており，また，スキームのお気持ちについても数多く書かれている．[Twitter](https://twitter.com/_yuya_matsumoto) <br />
-
+- [加塩 朋和](https://www.rs.tus.ac.jp/a25594/)<br />
+  "授業のレジュメ"で楕円曲線論で，特に，複素関数からのリーマン・ロッホの定理を導入している．<br />
 ---
 
 #### 圏論
