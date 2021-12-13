@@ -46,6 +46,9 @@ title-heading: false
 ### [Books](Books)
 読んだ本の中でおすすめできるものを紹介しています．<br />
 
+### [Blog](Blog)
+現在試験中です．<br />
+
 ---
 #### 連絡 
  - TwitterのDM．または，G-mail koutya0akari@gmail.com にお願いします．
