@@ -1,24 +1,4 @@
----
-title-heading: false
----
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-212193483-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-212193483-1');
-</script>
-
-# 収穫と蒔いた種と間引きされる僕
-
----
-
-### Blog
-
----
-
+<!DOCTYPE html>
   <html lang="ja">
   <head>
       <meta charset="UTF-8">
@@ -145,6 +125,7 @@ title-heading: false
         hanging-punctuation: force-end;
         line-break:strict;
         page-break-inside: auto;
+      }
     }
  
       div.indent-1 p:first-of-type, div.indent-2 p:first-of-type, div.indent-3 p:first-of-type{
@@ -407,9 +388,4 @@ title-heading: false
 
 </script>
   </body>
-  
----
-
-[Homeにもどる](https://koutya0akari.github.io/)
-
----
+  </html>
