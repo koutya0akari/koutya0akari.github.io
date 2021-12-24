@@ -50,21 +50,21 @@ title-heading: false
 
 #### 数学書
 
-- [代数学1　群論入門](https://www.amazon.co.jp/%E4%BB%A3%E6%95%B0%E5%AD%A61-%E7%BE%A4%E8%AB%96%E5%85%A5%E9%96%80-%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E9%9B%AA%E6%B1%9F%E6%98%8E%E5%BD%A6/dp/4535786593/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E7%BE%A4%E8%AB%96&qid=1638180983&s=books&sr=1-1)
-  雪江　明彦(著)，(日本評論社)<br />
-- [代数学2　環と体とガロア理論](https://www.amazon.co.jp/%E4%BB%A3%E6%95%B0%E5%AD%A62-%E7%92%B0%E3%81%A8%E4%BD%93%E3%81%A8%E3%82%AC%E3%83%AD%E3%82%A2%E7%90%86%E8%AB%96-%E9%9B%AA%E6%B1%9F-%E6%98%8E%E5%BD%A6/dp/4535786607/ref=pd_vtp_1/358-3721013-0526637?pd_rd_w=WId72&pf_rd_p=949e26f5-c2ef-4c96-bfde-49d7614d0317&pf_rd_r=4YRXGEW508071GZGPY4Z&pd_rd_r=58686257-97c8-4195-a2c0-24fe250ce212&pd_rd_wg=eJijw&pd_rd_i=4535786607&psc=1)
-  雪江　明彦(著)，(日本評論社)<br />
-- [代数学3 代数学のひろがり](https://www.amazon.co.jp/%E4%BB%A3%E6%95%B0%E5%AD%A63-%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%AE%E3%81%B2%E3%82%8D%E3%81%8C%E3%82%8A-%E9%9B%AA%E6%B1%9F-%E6%98%8E%E5%BD%A6/dp/4535786615/ref=pd_vtp_2/358-3721013-0526637?pd_rd_w=SEZw3&pf_rd_p=949e26f5-c2ef-4c96-bfde-49d7614d0317&pf_rd_r=K4B74638KXJ973NZ2DSS&pd_rd_r=76795ee3-44f9-4007-a9bd-7779b57ecfc7&pd_rd_wg=4wHM5&pd_rd_i=4535786615&psc=1)
-  雪江　明彦(著)，(日本評論社)<br />
-- [可換代数入門](https://www.amazon.co.jp/Atiyah%E2%80%90MacDonald-%E5%8F%AF%E6%8F%9B%E4%BB%A3%E6%95%B0%E5%85%A5%E9%96%80-M-F-Atiyah/dp/4320017919/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E5%8F%AF%E6%8F%9B%E4%BB%A3%E6%95%B0&qid=1638181964&s=books&sr=1-1)
+- [代数学1 群論入門](https://www.amazon.co.jp/%E4%BB%A3%E6%95%B0%E5%AD%A61-%E7%BE%A4%E8%AB%96%E5%85%A5%E9%96%80-%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E9%9B%AA%E6%B1%9F%E6%98%8E%E5%BD%A6/dp/4535786593/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E7%BE%A4%E8%AB%96&qid=1638180983&s=books&sr=1-1)<br />
+  雪江 明彦(著)，(日本評論社)<br />
+- [代数学2 環と体とガロア理論](https://www.amazon.co.jp/%E4%BB%A3%E6%95%B0%E5%AD%A62-%E7%92%B0%E3%81%A8%E4%BD%93%E3%81%A8%E3%82%AC%E3%83%AD%E3%82%A2%E7%90%86%E8%AB%96-%E9%9B%AA%E6%B1%9F-%E6%98%8E%E5%BD%A6/dp/4535786607/ref=pd_vtp_1/358-3721013-0526637?pd_rd_w=WId72&pf_rd_p=949e26f5-c2ef-4c96-bfde-49d7614d0317&pf_rd_r=4YRXGEW508071GZGPY4Z&pd_rd_r=58686257-97c8-4195-a2c0-24fe250ce212&pd_rd_wg=eJijw&pd_rd_i=4535786607&psc=1)<br />
+  雪江 明彦(著)，(日本評論社)<br />
+- [代数学3 代数学のひろがり](https://www.amazon.co.jp/%E4%BB%A3%E6%95%B0%E5%AD%A63-%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%AE%E3%81%B2%E3%82%8D%E3%81%8C%E3%82%8A-%E9%9B%AA%E6%B1%9F-%E6%98%8E%E5%BD%A6/dp/4535786615/ref=pd_vtp_2/358-3721013-0526637?pd_rd_w=SEZw3&pf_rd_p=949e26f5-c2ef-4c96-bfde-49d7614d0317&pf_rd_r=K4B74638KXJ973NZ2DSS&pd_rd_r=76795ee3-44f9-4007-a9bd-7779b57ecfc7&pd_rd_wg=4wHM5&pd_rd_i=4535786615&psc=1)<br />
+  雪江 明彦(著)，(日本評論社)<br />
+- [可換代数入門](https://www.amazon.co.jp/Atiyah%E2%80%90MacDonald-%E5%8F%AF%E6%8F%9B%E4%BB%A3%E6%95%B0%E5%85%A5%E9%96%80-M-F-Atiyah/dp/4320017919/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E5%8F%AF%E6%8F%9B%E4%BB%A3%E6%95%B0&qid=1638181964&s=books&sr=1-1)<br />
    M.F. Atiyah (著)，I.G. MacDonald (著)，新妻 弘 (翻訳)，(共立出版)<br />
-- [対称性からの群論](https://www.amazon.co.jp/%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%8B%E3%82%89%E3%81%AE%E7%BE%A4%E8%AB%96%E5%85%A5%E9%96%80-Undergraduate-Texts-Mathema-%E3%82%A2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0/dp/4621061623/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2JDUGC17WCY8G&keywords=%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%8B%E3%82%89%E3%81%AE%E7%BE%A4%E8%AB%96%E5%85%A5%E9%96%80&qid=1638181291&s=books&sprefix=%E3%81%9F%E3%81%84%E3%81%97%E3%82%87%E3%81%86%E3%81%9B%E3%81%84%2Cstripbooks%2C279&sr=1-1)
+- [対称性からの群論](https://www.amazon.co.jp/%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%8B%E3%82%89%E3%81%AE%E7%BE%A4%E8%AB%96%E5%85%A5%E9%96%80-Undergraduate-Texts-Mathema-%E3%82%A2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0/dp/4621061623/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2JDUGC17WCY8G&keywords=%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%8B%E3%82%89%E3%81%AE%E7%BE%A4%E8%AB%96%E5%85%A5%E9%96%80&qid=1638181291&s=books&sprefix=%E3%81%9F%E3%81%84%E3%81%97%E3%82%87%E3%81%86%E3%81%9B%E3%81%84%2Cstripbooks%2C279&sr=1-1)<br />
    M.A.アームストロング(著)，佐藤 信哉(翻訳)，(丸善出版)<br />
-- [組合せ論 上](https://www.amazon.co.jp/%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%B3%E3%83%88-%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%BD%E3%83%B3-%E7%B5%84%E5%90%88%E3%81%9B%E8%AB%96-%E7%A5%9E%E4%BF%9D-%E9%9B%85%E4%B8%80/dp/4621302450/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=35S7TN5GELVVG&keywords=%E7%B5%84%E5%90%88%E3%81%9B%E8%AB%96&qid=1638181370&s=books&sprefix=%E3%81%8F%E3%81%BF%E3%81%82%2Cstripbooks%2C280&sr=1-1)
+- [組合せ論 上](https://www.amazon.co.jp/%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%B3%E3%83%88-%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%BD%E3%83%B3-%E7%B5%84%E5%90%88%E3%81%9B%E8%AB%96-%E7%A5%9E%E4%BF%9D-%E9%9B%85%E4%B8%80/dp/4621302450/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=35S7TN5GELVVG&keywords=%E7%B5%84%E5%90%88%E3%81%9B%E8%AB%96&qid=1638181370&s=books&sprefix=%E3%81%8F%E3%81%BF%E3%81%82%2Cstripbooks%2C280&sr=1-1)<br />
    J.H. ヴァン・リント (著)，R.M. ウィルソン(著)，神保 雅一 (監修, 翻訳)，澤 正憲 (翻訳)，萩田 真理子 (翻訳)，(丸善出版)<br />
-- [定本　解析概論](https://www.amazon.co.jp/%E5%AE%9A%E6%9C%AC-%E8%A7%A3%E6%9E%90%E6%A6%82%E8%AB%96-%E9%AB%98%E6%9C%A8-%E8%B2%9E%E6%B2%BB/dp/4000052098/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E8%A7%A3%E6%9E%90%E6%A6%82%E8%AB%96&qid=1638181777&s=books&sr=1-1)
+- [定本 解析概論](https://www.amazon.co.jp/%E5%AE%9A%E6%9C%AC-%E8%A7%A3%E6%9E%90%E6%A6%82%E8%AB%96-%E9%AB%98%E6%9C%A8-%E8%B2%9E%E6%B2%BB/dp/4000052098/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E8%A7%A3%E6%9E%90%E6%A6%82%E8%AB%96&qid=1638181777&s=books&sr=1-1)<br />
    高木 貞治(著)，(岩波書店)<br />
-- [集合と位相](https://www.amazon.co.jp/%E9%9B%86%E5%90%88%E3%81%A8%E4%BD%8D%E7%9B%B8-%E5%A2%97%E8%A3%9C%E6%96%B0%E8%A3%85%E7%89%88-%E6%95%B0%E5%AD%A6%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%86%85%E7%94%B0-%E4%BC%8F%E4%B8%80/dp/4785314125/ref=sr_1_4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E9%9B%86%E5%90%88%E3%81%A8%E4%BD%8D%E7%9B%B8&qid=1638181580&s=books&sr=1-4)
+- [集合と位相](https://www.amazon.co.jp/%E9%9B%86%E5%90%88%E3%81%A8%E4%BD%8D%E7%9B%B8-%E5%A2%97%E8%A3%9C%E6%96%B0%E8%A3%85%E7%89%88-%E6%95%B0%E5%AD%A6%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%86%85%E7%94%B0-%E4%BC%8F%E4%B8%80/dp/4785314125/ref=sr_1_4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E9%9B%86%E5%90%88%E3%81%A8%E4%BD%8D%E7%9B%B8&qid=1638181580&s=books&sr=1-4)<br />
    内田 伏一(著)，(裳華房)<br />
 - [解析入門 1](https://www.amazon.co.jp/%E8%A7%A3%E6%9E%90%E5%85%A5%E9%96%80-%E2%85%A0-%E5%9F%BA%E7%A4%8E%E6%95%B0%E5%AD%A62-%E6%9D%89%E6%B5%A6-%E5%85%89%E5%A4%AB/dp/4130620053/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E8%A7%A3%E6%9E%90%E5%85%A5%E9%96%80&qid=1638420435&sr=8-1)<br />
    杉浦光夫(著)，(東京大学出版会)<br />
@@ -73,8 +73,8 @@ title-heading: false
 - [線型代数入門](https://www.amazon.co.jp/%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%85%A5%E9%96%80-%E5%9F%BA%E7%A4%8E%E6%95%B0%E5%AD%A61-%E9%BD%8B%E8%97%A4-%E6%AD%A3%E5%BD%A6/dp/4130620010/ref=pd_bxgy_img_2/358-3721013-0526637?pd_rd_w=MuHyy&pf_rd_p=d8f6e0ab-48ef-4eca-99d5-60d97e927468&pf_rd_r=C96S44S31HRQSPWVWP0T&pd_rd_r=de308375-e95c-420c-81cb-8a7b430f71d8&pd_rd_wg=wNSNa&pd_rd_i=4130620010&psc=1)<br />
    齋藤正彦(著)，(東京大学出版会)<br />
 - [整数論1 初等整数論からp進数へ](https://www.amazon.co.jp/%E6%95%B4%E6%95%B0%E8%AB%961-%E5%88%9D%E7%AD%89%E6%95%B4%E6%95%B0%E8%AB%96%E3%81%8B%E3%82%89p%E9%80%B2%E6%95%B0%E3%81%B8-%E9%9B%AA%E6%B1%9F%E6%98%8E%E5%BD%A6/dp/4535787360/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=PQBE0GQD89K0&keywords=%E5%88%9D%E7%AD%89%E6%95%B4%E6%95%B0%E8%AB%96&qid=1638420748&s=books&sprefix=%E3%81%97%E3%82%87%E3%81%A8%E3%81%86%E3%81%9B%E3%81%84%E3%81%99%E3%81%86%2Cstripbooks%2C281&sr=1-5)<br />
-  雪江　明彦(著)，(日本評論社)<br />
-  
+  雪江 明彦(著)，(日本評論社)<br />
+
 ---
 
 [Homeにもどる](https://koutya0akari.github.io/)
