@@ -67,6 +67,7 @@ title-heading: false
   授業資料にある"代数幾何入門コース"が可換環論からの導入をしており，また，スキームのお気持ちについても数多く書かれている．[Twitter](https://twitter.com/_yuya_matsumoto) <br />
 - [加塩 朋和](https://www.rs.tus.ac.jp/a25594/)<br />
   "授業のレジュメ"で楕円曲線論で，特に，複素関数からのリーマン・ロッホの定理を導入している．<br />
+  
 ---
 
 #### 圏論

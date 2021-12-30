@@ -54,8 +54,7 @@ title-heading: false
   雪江 明彦(著)，(日本評論社)<br />
 - [代数学2 環と体とガロア理論](https://www.amazon.co.jp/%E4%BB%A3%E6%95%B0%E5%AD%A62-%E7%92%B0%E3%81%A8%E4%BD%93%E3%81%A8%E3%82%AC%E3%83%AD%E3%82%A2%E7%90%86%E8%AB%96-%E9%9B%AA%E6%B1%9F-%E6%98%8E%E5%BD%A6/dp/4535786607/ref=pd_vtp_1/358-3721013-0526637?pd_rd_w=WId72&pf_rd_p=949e26f5-c2ef-4c96-bfde-49d7614d0317&pf_rd_r=4YRXGEW508071GZGPY4Z&pd_rd_r=58686257-97c8-4195-a2c0-24fe250ce212&pd_rd_wg=eJijw&pd_rd_i=4535786607&psc=1)<br />
   雪江 明彦(著)，(日本評論社)<br />
-- [代数学3 代数学のひろがり](https://www.amazon.co.jp/%E4%BB%A3%E6%95%B0%E5%AD%A63-%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%AE%E3%81%B2%E3%82%8D%E3%81%8C%E3%82%8A-%E9%9B%AA%E6%B1%9F-%E6%98%8E%E5%BD%A6/dp/4535786615/ref=pd_vtp_2/358-3721013-0526637?pd_rd_w=SEZw3&pf_rd_p=949e26f5-c2ef-4c96-bfde-49d7614d0317&pf_rd_r=K4B74638KXJ973NZ2DSS&pd_rd_r=76795ee3-44f9-4007-a9bd-7779b57ecfc7&pd_rd_wg=4wHM5&pd_rd_i=4535786615&psc=1)<br />
-  雪江 明彦(著)，(日本評論社)<br />
+
 - [可換代数入門](https://www.amazon.co.jp/Atiyah%E2%80%90MacDonald-%E5%8F%AF%E6%8F%9B%E4%BB%A3%E6%95%B0%E5%85%A5%E9%96%80-M-F-Atiyah/dp/4320017919/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E5%8F%AF%E6%8F%9B%E4%BB%A3%E6%95%B0&qid=1638181964&s=books&sr=1-1)<br />
    M.F. Atiyah (著)，I.G. MacDonald (著)，新妻 弘 (翻訳)，(共立出版)<br />
 - [対称性からの群論](https://www.amazon.co.jp/%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%8B%E3%82%89%E3%81%AE%E7%BE%A4%E8%AB%96%E5%85%A5%E9%96%80-Undergraduate-Texts-Mathema-%E3%82%A2%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0/dp/4621061623/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2JDUGC17WCY8G&keywords=%E5%AF%BE%E7%A7%B0%E6%80%A7%E3%81%8B%E3%82%89%E3%81%AE%E7%BE%A4%E8%AB%96%E5%85%A5%E9%96%80&qid=1638181291&s=books&sprefix=%E3%81%9F%E3%81%84%E3%81%97%E3%82%87%E3%81%86%E3%81%9B%E3%81%84%2Cstripbooks%2C279&sr=1-1)<br />
