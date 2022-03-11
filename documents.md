@@ -18,12 +18,15 @@ title-heading: false
 
 ## 資料館
 
+### 可換代数への道標
+
+- [準備編(集合論)](pdf/preparatory_section.pdf)
 
 ---
 
 ### 単発
 
-
+- 以前あったものは削除しました. 
 
 ---
 
