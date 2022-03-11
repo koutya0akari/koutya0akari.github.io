@@ -20,7 +20,9 @@ title-heading: false
 
 ### 可換代数への道標
 
-- [準備編(集合論)](pdf/preparatory_section.pdf)
+- 集合論<br />
+  [ハンドアウト](pdf/preparatory_section.pdf)<br />
+  [スライド](pdf/M_preparatory_section.pdf)<br />
 
 ---
 
