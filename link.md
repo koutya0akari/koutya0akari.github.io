@@ -41,7 +41,7 @@ title-heading: false
 - [James Milne](https://www.jmilne.org/index.html)<br />
   代数幾何，エタール・コホモロジー，代数的整数といった幅広い資料．<br />
 - [David Mumford](https://www.dam.brown.edu/people/mumford/alg_geom/introAG.html)<br />
-  "Red Book" で有名なDavid Mumford氏のサイトで代数幾何の論文や資料が公開されている．<br />
+
 - [Alexander Grothendieck1](https://agrothendieck.github.io)<br />
   
 - [Alexander Grothendieck2](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pubtexts.php)<br />

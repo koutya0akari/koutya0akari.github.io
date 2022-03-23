@@ -11,12 +11,7 @@ title-heading: false
   gtag('config', 'UA-212193483-1');
 </script>
 
-
-# [収穫と蒔いた種と間引きされる僕](https://koutya0akari.github.io/)
-
----
-
-### おすすめの本
+## お気に入りの本
 
 - 文体練習. レーモン・クノー. 朝日出版社. <br />
 

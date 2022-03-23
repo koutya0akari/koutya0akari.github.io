@@ -1,2 +1,13 @@
 title: 収穫と蒔いた種と間引きされる僕
 theme: jekyll-theme-slate
+navbar: 
+  title: "収穫と蒔いた種と間引きされる僕"
+  left:
+    - text: home
+      href: index.md
+    - text: 資料館
+      href: documents.md
+    - text: link
+      href: link.md
+    - text: Books
+      href: Books.md
