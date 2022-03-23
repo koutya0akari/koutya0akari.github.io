@@ -10,9 +10,7 @@
 
 # 収穫と蒔いた種と間引きされる僕
 
----
-
-**ここの内容に関して，私は一切の責任も持ちません．**
+>**内容に関して，私は一切の責任も持ちません．**
 
 ---
 
@@ -27,8 +25,11 @@
 
  - [Twitter](https://twitter.com/akari0koutya)
  - [Hatena](https://akari0koutya.hatenablog.com/)
- - [node](https://note.com/akari0koutya)
+ - [note](https://note.com/akari0koutya)
  - [GitHub](https://github.com/koutya0akari)
+ - [Mathlog](https://mathlog.info/users/2413/articles)
+ - [YouTube](https://www.youtube.com/channel/UCm2YF6FZXj_Han0ZHptdZbg)
+ - [niconico](https://www.nicovideo.jp/user/84585102)
  
  ゆいさんの数物サバ, むぐれしあさんの勉強会サバにもいます.
 

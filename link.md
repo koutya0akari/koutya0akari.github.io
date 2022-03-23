@@ -8,7 +8,7 @@
   gtag('config', 'UA-212193483-1');
 </script>
 
----
+# [収穫と蒔いた種と間引きされる僕](https://koutya0akari.github.io/)
 
 ## Link
 
@@ -55,13 +55,17 @@
 
 - [加塩 朋和](https://www.rs.tus.ac.jp/a25594/)<br />
 
-- [壱大整域(alg-d)](http://alg-d.com/)<br />
+- [壱大整域](http://alg-d.com/)<br />
 
 - [ときわ台学](http://www.f-denshi.com/000TokiwaJPN/01daisu/000daisu.html)<br />
 
-- [永月杏](https://www.all-for-nothing.com/about)<br />
+- [空論上の砂、楼閣上の机。](https://www.all-for-nothing.com/about)<br />
 
-- [J_Koizumi](https://asuka-math.amebaownd.com/)<br />
+- [もちもちモチーフ](https://asuka-math.amebaownd.com/)<br />
+
+- [arXiv探訪](https://arxiv.hatenablog.com/)<br />
+
+- [iso.2022.jp](http://iso.2022.jp/)<br />
 
 ---
 
