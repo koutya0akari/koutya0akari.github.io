@@ -1,6 +1,3 @@
----
-title-heading: false
----
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-212193483-1"></script>
 <script>
@@ -10,9 +7,6 @@ title-heading: false
 
   gtag('config', 'UA-212193483-1');
 </script>
-
-
-# [収穫と蒔いた種と間引きされる僕](https://koutya0akari.github.io/)
 
 ---
 
