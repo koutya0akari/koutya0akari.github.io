@@ -16,7 +16,7 @@
 ### 可換代数への道標
 
 - 集合論<br />
-  [ハンドアウト](pdf/preparation_section.pdf)<br />
+  [ハンドアウト](pdf/preparatory_section.pdf)<br />
   [スライド](pdf/M_preparation_section.pdf)<br />
 
 ---
