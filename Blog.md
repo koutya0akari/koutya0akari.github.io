@@ -2,7 +2,6 @@
 title-heading: false
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-212193483-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -10,6 +9,17 @@ title-heading: false
   gtag('js', new Date());
 
   gtag('config', 'UA-212193483-1');
+</script>
+<!-- mathjax -->
+<script type="text/javascript" async="" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({
+ tex2jax: {
+ inlineMath: [['$', '$'] ],
+ displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+ }
+ });
 </script>
 
 # 収穫と蒔いた種と間引きされる僕
