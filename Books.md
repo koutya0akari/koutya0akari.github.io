@@ -14,7 +14,9 @@
 
 - 文体練習. レーモン・クノー. 朝日出版社. <br />
 
-- 四畳半神話大系. 森見 登美彦. 角川文庫. <br />
+- 四畳半神話大系. 森見登美彦. 角川文庫. <br />
+
+- 独自性類的人間. 永井均. ぷねうま舎. <br />
 
 - A Christmas Carol. Charles Dickens. Independently published. <br />
 

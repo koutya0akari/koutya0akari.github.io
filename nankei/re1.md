@@ -22,18 +22,11 @@ title-heading: false
  });
 </script>
 
-# Blog
+# 例題1
 
-### 難問題の系統とその解き方の誤植まとめ
+> **(う)** 鉛直下向きに大きさ $\alpha$ の加速度とすると, 地盤 B から見て物体 A の重心 G に鉛直上向きの慣性力 $m\alpha$ が働くので, ...
 
----
+(う) ではこのように書かれていますが, 地震により鉛直方向の動きが起こった時, 
+そのため, 地盤 B から観測するのは間違いであり, 
 
-・ 発見次第, 随時追加していきます.<br />
-
----
-
-- [例題17](nankei/re17.md)
-
-[Homeにもどる](https://koutya0akari.github.io/)
-
----
+[Blog一覧にもどる](https://koutya0akari.github.io/Blog)
