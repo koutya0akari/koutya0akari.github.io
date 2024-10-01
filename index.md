@@ -25,7 +25,7 @@
 
 ## About me
 
- - [Twitter](https://twitter.com/akari0koutya)
+ - [Twitter](https://twitter.com/yuzuki_yukari__)
  - [Hatena](https://akari0koutya.hatenablog.com/)
  - [note](https://note.com/akari0koutya)
  - [GitHub](https://github.com/koutya0akari)
